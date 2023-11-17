@@ -1,0 +1,28 @@
+.visible{
+    width: 200px;
+    height: 70px;
+    background-color: blueviolet;
+    overflow: visible;
+    position: relative;
+}
+
+.hidden{
+    width: 200px;
+    height: 70px;
+    background-color:rgb(53, 66, 90);
+    overflow: hidden;
+}
+
+.scoll{
+    width: 200px;
+    height: 70px;
+    background-color: rgb(255, 241, 47);
+    overflow: scroll;
+}
+.auto{
+    width: 200px;
+    height: 70px;
+    background-color: rgb(46, 20, 11);
+    overflow: auto;
+    
+}
