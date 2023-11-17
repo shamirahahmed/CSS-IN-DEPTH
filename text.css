@@ -1,0 +1,33 @@
+.left-align{
+    text-align: left;
+    text-decoration: underline;
+    text-indent: 50px;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px blue;
+}
+.right-align{
+    text-align: right;
+    text-decoration: overline;
+    text-shadow: 2px 2px red;
+}
+
+.center-align{
+    text-align: center;
+    text-decoration: line-through;
+}
+
+.justify-align{
+    text-align: justify;
+    text-decoration: overline underline;
+}
+.red{
+    color: red;
+}
+
+.green{
+    color:green
+}
+
+.yellow{
+color: yellow;
+}
